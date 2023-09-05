@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2? family=popins:wght@300;400;500;600;700;800;900& display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'poppins',sans-serif;
+}
+body {
+    background-color: black;
+}
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 20%;
+    background-color: yellowgreen;
+    display: flex;
+    align-items:center;
+    z-index: 100;
+}
+.mylogo{
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+}
+.about{
+    display: flex;
+    background: url(pexels-mikhail-nilov-7828670.jpg)no-repeat;
+    background-size:cover;
+    background-position:right;
+    align-items: center;
+    height: 100vh;
+    padding: 0 10%;
+}
+.about-content p{
+    font-size: 30px;
+    margin: 80px 0 40px;
+    line-height: 1.2;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: white;
+}
+
+.header2{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 20%;
+    background-color: yellowgreen;
+    display: flex;
+    align-items:center;
+    z-index: 100;
+}
+.mylogo2{
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+}
+.contact h2{
+    font-size: 30px;
+    margin: 50px 0 40px;
+    line-height: 1.2;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: white;
+}
+.header3{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 20%;
+    background-color: yellowgreen;
+    display: flex;
+    align-items:center;
+    z-index: 100;
+}
+.mylogo3{
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+}
+.mark-content h1{
+    font-size: 30px;
+    margin: 70px 0 40px;
+    line-height: 1.2;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: white;
+}
+.mark-content h2{
+    font-size: 30px;
+    margin: 70px 0 40px;
+    line-height: 1.2;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: white;
+}
+.mark-content p{
+    font-size: 30px;
+    margin: 80px 0 40px;
+    line-height: 1.2;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: white;
+}
+.mark-content h3{
+    font-size: 30px;
+    margin: 70px 0 40px;
+    line-height: 1.2;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: white;
+}
